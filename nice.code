@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std ;
 int main()
-{
-   cout<<"Print hello jee kese hoo saare" ;
+{  
+   int a ;
+   cout<<"Print hello jee kese hoo saare"<<a ;
 }
